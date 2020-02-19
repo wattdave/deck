@@ -8,7 +8,7 @@
     "url": "https://github.com/spinnaker/deck.git"
   },
   "publishConfig": {
-    "registry": "http://artifacts.netflix.com/api/npm/npm-local"
+    "registry": "https://art-bobcat.autodesk.com/artifactory/api/npm/autodesk-npm-virtual"
   },
   "engines": {
     "node": ">=12.16.0",
